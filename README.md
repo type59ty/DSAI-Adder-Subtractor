@@ -1,5 +1,4 @@
 # DSAI HW2 Adder & Subtractor
-`學號：P76071218  姓名：陳昱霖` 
 ## Usage
 ```shell
 $ python main.py [-t CAL_TYPE] [-d DIGITS] [-m MODEL_TYPE]
