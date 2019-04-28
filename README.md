@@ -88,10 +88,10 @@ Q 212+915 T 1127 ☑ 1127
 |30	|0.0509	|0.9868	|0.0368	|0.9913|
 |40	|0.0117	|0.9983	|0.0214	|0.9937|
 |50	|0.0282	|**0.9916**	|0.0408	|0.9863|
-:::info
+```
 Testing  loss: 0.0418
 Testing  acc: 0.9867
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/3EIFwOS.png)
 
@@ -117,10 +117,10 @@ Testing  acc: 0.9867
 |80	|0.0124|0.9999	|0.1057	|0.9643
 |90	|0.0148|0.9984	|0.1035	|0.9664
 |100|0.0044|1	    |0.0942	|0.9682
-:::info
+```
 Testing  loss: 0.0988
 Testing  acc: 0.9656
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/pbzEeuD.png)
 
@@ -171,10 +171,10 @@ Q 292-391 T -99  ☒ -19
 |40	|0.1027	|0.9734	|0.1281	|0.9581|
 |50	|0.0502	|**0.989**	|0.0686	|0.9805|
 
-:::info
+```
 Testing  loss: 0.0676
 Testing  acc: 0.9804 
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/JzGDAe1.png)
 
@@ -201,10 +201,10 @@ Testing  acc: 0.9804
 |90	 |0.1161	|0.9711	|0.2677	|0.9044
 |100 |0.0846	|0.981	|0.254	|0.9119
 
-:::info
+```
 Testing  loss: 0.2537
 Testing  acc: 0.9126
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/7nU0Q9o.png)
 
@@ -255,10 +255,10 @@ Q 601-49  T 552  ☑ 552
 |40|0.6514	|0.7597	|0.7056	|0.7309
 |50|0.3221	|**0.8896**	|0.3768	|0.8611
 
-:::info
+```
 Testing  loss: 0.3694
 Testing  acc: 0.8641
-:::
+```
 
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/WiK6qqO.png)
@@ -287,10 +287,10 @@ Testing  acc: 0.8641
 |100 |0.2409	|0.9338	|0.6805	|0.7526
 
 
-:::info
+```
 Testing  loss: 0.6715
 Testing  acc: 0.7539
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/9CAOzZ5.png)
 
@@ -341,10 +341,10 @@ Q 6*883   T 5298   ☒ 5258
 |40	|0.7755	|0.6973	|0.7901	|0.6894|
 |50	|0.7193	|**0.7165**|0.7458	|0.6988|
 
-:::info
+```
 Testing  loss: 0.7455
 Testing  acc: 0.6995
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/mqpQflC.png)
 
@@ -372,10 +372,10 @@ Testing  acc: 0.6995
 |100|0.5424	|0.8041	|0.7397	|0.7277
 
 
-:::info
+```
 Testing  loss: 0.7384
 Testing  acc: 0.7272
-:::
+```
 - Accuracy of Training and Testing data for each epoch
 ![](https://i.imgur.com/wXarSnQ.png)
 
@@ -394,10 +394,10 @@ $ python main.py -t add_sub -d 2
 |30|0.0293	|0.9954	|0.0373	|0.9911|
 |40|0.022	|0.9955	|0.0188	|0.9959|
 |50|0.0057	|**0.9996**	|0.0122	|0.9972|
-:::info
+```
 Testing  loss: 0.0133
 Testing  acc: 0.9964
-:::
+```
 
 ### 2. 3 digits
 ```
@@ -412,10 +412,10 @@ $ python main.py -t add_sub -d 3
 |40|0.6514	|0.7597	|0.7056	|0.7309
 |50|0.3221	|**0.8896**	|0.3768	|0.8611
 
-:::info
+```
 Testing  loss: 0.3694
 Testing  acc: 0.8641
-:::
+```
 
 ### 3. 4 digits
 ```
@@ -429,10 +429,10 @@ $ python main.py -t add_sub -d 4
 |30|0.7762	|0.7079	|0.8447 |0.675
 |40|0.62	|0.7658	|0.711	|0.7196
 |50|0.4641	|**0.8297**	|0.5922 |0.7713
-:::info
+```
 Testing  loss: 0.6005
 Testing  acc: 0.7699
-:::
+```
 
 
 ## Conclusion
