@@ -457,3 +457,7 @@ When applying fewer number of digit, the accuarcy increased.
 2. 3 digits (Acc: 0.8641)
 3. 4 digits (Acc: 0.7699)
 
+## Report
+- [HackMD report link](https://hackmd.io/s/H1AriA-j4)
+## Author
+- [Yu-Lin Chen](https://github.com/type59ty)
